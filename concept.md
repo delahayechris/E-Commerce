@@ -17,7 +17,7 @@ liens utiles: http://www.wizishop.com/blog/images/monter-son-projet-ecommerce.pd
     + Nouveautés
     + Promotions
 
-  +Commande
+  + Commande
     + Engagements
     + Nos garanties
     + Paiement
