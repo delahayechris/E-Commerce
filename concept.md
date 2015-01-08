@@ -25,3 +25,16 @@ liens utiles: http://www.wizishop.com/blog/images/monter-son-projet-ecommerce.pd
     + Conditions de vente et mentions légales
     
   + Contact
+
+- Taxonomie de produits
+  + Sextoy féminin
+    + Godemichets
+    + Stimulateurs
+  
+  + Sextoy masculin
+    + Anneaux vibrants 
+    + Masturbareurs
+
+  + Jeux coquins
+    + Fetish soft
+    + Coffrets sexy
