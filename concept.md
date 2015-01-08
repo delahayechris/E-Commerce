@@ -9,16 +9,19 @@ liens utiles: http://www.wizishop.com/blog/images/monter-son-projet-ecommerce.pd
 
 - Aborescence:
   + Accueil
-    > Coup de coeur
-    > Nouveautés
+    + Coup de coeur
+    + Nouveautés
+
   + Produits 
-    > Coup de coeur
-    > Nouveautés
-    > Promotions
+    + Coup de coeur
+    + Nouveautés
+    + Promotions
+
   +Commande
-    >Engagements
-    > Nos garanties
-    > Paiement
-    > Livraison
-    > Conditions de vente et mentions légales
+    + Engagements
+    + Nos garanties
+    + Paiement
+    + Livraison
+    + Conditions de vente et mentions légales
+    
   + Contact
