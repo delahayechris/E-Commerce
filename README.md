@@ -15,5 +15,5 @@ Wix // Avantages // Inconvénients
 | ------------- | ------------- | ----------------------------- | -------------------------- |
 | Wizishop.com  |               |                               |                            |
 | e-monsite.com |(+)back office ergonomique|(+)Des dizaines de design graphiques et modernes|(-)Gratuit jusqu'à 5 articles|
-| Wix           |
+| Wix           |                |       |
 
