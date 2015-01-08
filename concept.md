@@ -1,0 +1,12 @@
+Conception du site e-commerce
+
+nom du site: Touch me, Inside
+accroche: "le plaisir du touché...", "20 minutes, à la secondes près...", "open your legs", "hurlez de plaisir"
+couleurs:
+palette framboise cochonne: (rose)#DC2961, #252324, #8E8E8E, #F4F4F4
+nuance coquine: #E6296F, #991B4A, #A61D5, #80173E
+
+Aborescence:
+  + Accueil
+  + Produits 
+  + Contact
