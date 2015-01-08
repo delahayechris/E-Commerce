@@ -12,10 +12,8 @@ Beaucoup de choix de design - Optimisation moteur de recherche - //Publicité - 
 Wix // Avantages // Inconvénients
 
 | Site          | Simplicité    | Choix et fléxibilité du design| Prix et moyens de paiement |
-
+| ------------- | ------------- | ----------------------------- | -------------------------- |
 | Wizishop.com  |               |                               |                            |
-
 | e-monsite.com |(+)back office ergonomique|(+)Des dizaines de design graphiques et modernes|(-)Gratuit jusqu'à 5 articles|
-
 | Wix           |
 
