@@ -36,7 +36,7 @@ Conception du site e-commerce
   
   + Sextoy masculin
     + Anneaux vibrants 
-    + Masturbareurs
+    + Masturbateurs
 
   + Jeux coquins
     + Fetish soft
