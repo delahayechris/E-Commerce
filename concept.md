@@ -1,5 +1,8 @@
 Conception du site e-commerce
-liens utiles: http://www.wizishop.com/blog/images/monter-son-projet-ecommerce.pdf
+
+- liens utiles: 
+  + http://www.wizishop.com/blog/images/monter-son-projet-ecommerce.pdf
+  + http://www.sextoy.fr/
 
 - nom du site: Touch me, Inside
 - accroche: "le plaisir du touché...", "20 minutes, à la secondes près...", "open your legs", "hurlez de plaisir"
